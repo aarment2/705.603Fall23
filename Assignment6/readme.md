@@ -1,5 +1,16 @@
 # Assignment 6 - Graphical Degrading and Object Detection
 
+1. This application opens a web interface (localhost:8786).
+2. The interface has an input form where the user can upload an image.
+3. Upon hitting the "Upload" button, the program will perform object detection the image, and subsequent modifications.
+4. The program outputs ten images based on the input image. Each image is distorted progressively (rotation, speckle noise).
+5. For each image, object detection is performed. Identified objects and their degree of confidence are then embedded on to each image.
+6. The ten output images are saved in a directory called "objectDetectionResults". If the directory does not exist, it will be created.
+
+Thank you and all feedback is welcome!
+
+
+## Below are the assignment instructions:
 ## Steps for Part 1 - Graphical Degrading
 1. Download zip code from assignment repository
 1. Download the [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) from the readme in the github repository (This file is too big for github versioning)
