@@ -1,26 +1,18 @@
-# Welcome to a Readme File
-## Second Welcome
-### Third Welcome
+## ASSIGNMENT MODULE 9
+## Unsupervised Clustering and Model Design: Credit Card Fraud Transactions
+Antonio Armenta
+11/12/2023
 
-*italic*
+This assignment answers the following two questions. Please see notes / comments in the notebook.
 
-**bold**
+**Section 1 (Unsupervised Cluster Analysis)**  
+Using an unsupervised framework, analyze the clustering behavior of the data. Propose an unsupervised learning algorithm and analyze the different sub-populations for each cluster. Describe each of the sub-population for each of the clusters the model discovered. Is there a cluster where there is a high incidence of fraud? Lastly, provide a list of transactions that your data engineer can review to audit the veracity of their labels.
 
-* list 1
-* list 2
+**Section 2 (Hyper-parameter tuning for Random Forest)**   
+Analyze the behavior of a Random Forest model as you vary the values of its hyper parameters:
 
-- list 1
-- list 2
+max_depth  
+n_estimators  
+max_features  
 
-This decribes this particular project and directory level.
-
-
-[GitHub Readme1 Reference](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-
-[General Readme2 Reference](https://www.mygreatlearning.com/blog/readme-file/#:~:text=When%20you%20create%20a%20repository,be%20easily%20converted%20to%20text)
-
-Bring in local graphic
-![GitHub Logo](./regan.png) 
-
-Bring in remote graphic
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png) 
+Graph the performance of each hyper-parameter as you vary their values. Use at least 4 different values for each hyper-parameter. Finally, summarize how you would design a Random Forest model using the results of your analysis.
