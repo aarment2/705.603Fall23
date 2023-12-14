@@ -21,6 +21,8 @@ To get started with the project:
 1. Clone this repository. https://github.com/aarment2/705.603Fall23/tree/main/FinalProject
 2. Install necessary dependencies: `pip install -r requirements.txt`
 3. Open http://localhost:8786/ and follow the instructions on the web form.
+4. Please find all written content in the attached notebook.
+   
 
 
 ## Contact
