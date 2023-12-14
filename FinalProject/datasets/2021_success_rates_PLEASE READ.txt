@@ -1,0 +1,5 @@
+The dataset is too large to upload to Github. Please download from:
+
+https://healthdata.gov/dataset/2021-Final-Assisted-Reproductive-Technology-ART-Su/cyxm-ka8p/about_data
+
+Choose the "Text/CSV" option to download.
