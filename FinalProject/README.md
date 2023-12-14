@@ -5,14 +5,14 @@
 The AI-Enabled In-Vitro Fertilization (IVF) project aims to leverage artificial intelligence and machine learning techniques to enhance the accuracy and efficiency of fertility treatments. This project focuses on utilizing AI algorithms to evaluate features related to the overall success rates in IVF procedures.
 
 ## Sections
-Section 1: Introduction
-Section 2: Scope
-Section 3: Data Collection and Analysis
-Section 4: Model Selection
-Section 5: Findings
-Section 6: System Monitoring
-Section 7: Deployment Strategy
-Section 8: Conclusion and Next Steps
+Section 1: Introduction  
+Section 2: Scope  
+Section 3: Data Collection and Analysis  
+Section 4: Model Selection  
+Section 5: Findings  
+Section 6: System Monitoring  
+Section 7: Deployment Strategy  
+Section 8: Conclusion and Next Steps  
 Section 9: References
 
 
